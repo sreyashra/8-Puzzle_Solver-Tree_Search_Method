@@ -99,5 +99,4 @@ class Puzzle:
 
 puzz = Puzzle(3)
 puzz.process()
-
-Input()
+input()
